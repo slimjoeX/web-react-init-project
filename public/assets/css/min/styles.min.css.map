@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,IAAI,AAAC,CACD,KAAK,CCHD,IAAI,CDQX,AAND,AAGI,IAHA,CAGE,CAAC,AAAC,CACA,KAAK,CAAE,IAAmB,CAC7B",
+    "sources": [
+        "../../../../src/scss/styles.scss",
+        "../../../../src/scss/partials/_partial-style.scss",
+        "../../../../src/scss/partials/_variables.scss"
+    ],
+    "names": [],
+    "file": "styles.min.css"
+}
